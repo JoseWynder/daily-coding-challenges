@@ -30,7 +30,7 @@ public class PalindromeNumber {
         }
 
         return (number == invertedHalf) || (number == invertedHalf / 10);
-        
+
 
         // Simple solution, but not very efficient because it needs to convert to String and create objects
 //        String s = Integer.toString(number);
