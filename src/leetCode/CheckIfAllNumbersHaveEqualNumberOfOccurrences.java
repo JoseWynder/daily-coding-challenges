@@ -27,7 +27,6 @@ public class CheckIfAllNumbersHaveEqualNumberOfOccurrences {
         }
 
         int expectedCount = deckCount[deck[0]];
-
         for(int count : deckCount) {
             if(count != 0 && count != expectedCount) {
                 return false;
