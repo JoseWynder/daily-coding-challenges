@@ -9,7 +9,7 @@ Registro de uma rotina pessoal de resolução diária de desafios de algoritmos 
 ## <p align="center">📌 Sobre</p>
 
 <p align="center">
-Este repositório reúne desafios de algoritmos resolvidos diariamente como parte de uma rotina pessoal de prática de programação, geralmente pela manhã antes das demais atividades.
+Este repositório reúne desafios de algoritmos resolvidos diariamente como parte de uma rotina pessoal de prática de programação, geralmente pela manhã, antes do início das demais atividades.
 </p>
 
 <p align="center">
