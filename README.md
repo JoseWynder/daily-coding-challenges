@@ -1,4 +1,4 @@
-<h1 align="center">daily-coding-challenges</h1>
+<h1 align="center">Daily Coding Challenges</h1>
 
 <p align="center">
 Registro de uma rotina pessoal de resolução diária de desafios de algoritmos para manter a prática constante de codificação.
