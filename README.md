@@ -65,5 +65,5 @@ com possibilidade de retomada futura como rotina complementar de estudo.
 ---
 
 <p align="center">
-  <em>☕ Programar todos os dias, mesmo em pequenas doses, é a forma mais simples de manter a base sempre ativa.</em>
+  <em>☕ Programar todos os dias foi a forma mais simples de manter a base sempre ativa.</em>
 </p>
