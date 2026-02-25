@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/counting-bits?list=neetcode150
+// https://leetcode.com/problems/counting-bits/description/
 
 import java.util.Arrays;
 

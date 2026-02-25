@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/subtree-of-a-binary-tree?list=neetcode150
+// https://leetcode.com/problems/subtree-of-another-tree/description/
 
 public class SubtreeOfAnotherTree {
     public static class TreeNode {

@@ -2,7 +2,7 @@ package neetCode;
 
 import java.util.Arrays;
 
-// https://neetcode.io/problems/missing-number?list=neetcode150
+// https://leetcode.com/problems/missing-number/description/
 
 public class MissingNumber {
 

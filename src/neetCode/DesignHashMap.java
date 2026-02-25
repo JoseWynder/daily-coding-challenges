@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/design-hashmap?list=neetcode250
+// https://leetcode.com/problems/design-hashmap/description/
 
 public class DesignHashMap {
     private LinkedList[] map;

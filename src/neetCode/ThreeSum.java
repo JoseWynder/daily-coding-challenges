@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/three-integer-sum?list=neetcode150
+// https://leetcode.com/problems/3sum/description/
 
 import java.util.ArrayList;
 import java.util.Arrays;

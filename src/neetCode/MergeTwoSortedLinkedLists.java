@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/merge-two-sorted-linked-lists?list=neetcode150
+// https://leetcode.com/problems/merge-two-sorted-lists/description/
 
 public class MergeTwoSortedLinkedLists {
     public static class ListNode {

@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/is-palindrome?list=blind75
+// https://leetcode.com/problems/valid-palindrome/description/
 
 public class ValidPalindrome {
     public static void main(String[] args) {

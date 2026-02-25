@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/invert-a-binary-tree?list=neetcode150
+// https://leetcode.com/problems/invert-binary-tree/description/
 
 public class InvertBinaryTree {
 

@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/duplicate-integer?list=blind75
+// https://leetcode.com/problems/contains-duplicate/submissions/1930172407/
 
 import java.util.HashSet;
 import java.util.Set;

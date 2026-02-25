@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/merge-strings-alternately?list=neetcode250
+// https://leetcode.com/problems/merge-strings-alternately/description/
 
 public class MergeStringsAlternately {
     public static String mergeAlternately(String word1, String word2) {

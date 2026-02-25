@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/validate-parentheses
+// https://leetcode.com/problems/valid-parentheses/description/
 
 public class ValidParentehses {
 

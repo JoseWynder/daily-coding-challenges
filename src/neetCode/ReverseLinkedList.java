@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/reverse-a-linked-list?list=neetcode150
+// https://leetcode.com/problems/reverse-linked-list/description/
 
 public class ReverseLinkedList {
 

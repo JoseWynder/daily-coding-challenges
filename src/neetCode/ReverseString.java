@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/reverse-string?list=neetcode250
+// https://leetcode.com/problems/reverse-string/description/
 
 public class ReverseString {
     public static void reverseString(char[] s) {

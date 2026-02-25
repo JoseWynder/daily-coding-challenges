@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/plus-one?list=neetcode150
+// https://leetcode.com/problems/plus-one/description/
 
 import java.util.Arrays;
 

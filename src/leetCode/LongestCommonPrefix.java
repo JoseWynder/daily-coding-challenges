@@ -1,6 +1,6 @@
 package leetCode;
 
-// https://neetcode.io/problems/longest-common-prefix?list=neetcode250
+// https://leetcode.com/problems/longest-common-prefix/description/
 
 public class LongestCommonPrefix {
     public static String longestCommonPrefix(String[] strs) {

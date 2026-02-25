@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/climbing-stairs?list=neetcode150
+// https://leetcode.com/problems/climbing-stairs/description/
 
 public class ClimbingStairs {
     public static void main(String[] args) {

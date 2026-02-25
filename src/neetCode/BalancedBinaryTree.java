@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/balanced-binary-tree?list=neetcode150
+// https://leetcode.com/problems/balanced-binary-tree/description/
 
 public class BalancedBinaryTree {
     public static class TreeNode {

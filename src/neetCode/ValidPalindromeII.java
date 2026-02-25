@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/valid-palindrome-ii?list=neetcode250
+// https://leetcode.com/problems/valid-palindrome-ii/description/
 
 public class ValidPalindromeII {
     public static boolean validPalindrome(String s) {

@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/design-hashset?list=neetcode250
+// https://leetcode.com/problems/design-hashset/description/
 
 public class DesignHashSet {
     private static boolean[] keys;

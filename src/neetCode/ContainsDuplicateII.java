@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/contains-duplicate-ii/question?list=neetcode250
+// https://leetcode.com/problems/contains-duplicate-ii/description/
 
 import java.util.HashSet;
 import java.util.Set;

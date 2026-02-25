@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/same-binary-tree?list=neetcode150
+// https://leetcode.com/problems/same-tree/description/
 
 public class SameBinaryTree {
 

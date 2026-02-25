@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/merge-sorted-array?list=neetcode250
+// https://leetcode.com/problems/merge-sorted-array/description/
 
 import java.util.Arrays;
 

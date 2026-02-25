@@ -1,10 +1,10 @@
 package neetCode;
 
-// https://neetcode.io/problems/remove-duplicates-from-sorted-array?list=neetcode250
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 
 public class RemoveDuplicatesFromSortedArray {
     public static int removeDuplicates(int[] nums) {
-        if(nums.length < 3) return nums.length;
+        if(nums.length < 2) return nums.length;
 
         int i = 0;
         for (int j = 1; j < nums.length; j++) {

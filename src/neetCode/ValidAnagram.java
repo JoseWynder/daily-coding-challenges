@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-// https://neetcode.io/problems/is-anagram?list=blind75
+// https://leetcode.com/problems/valid-anagram/description/
 
 
 public class ValidAnagram {

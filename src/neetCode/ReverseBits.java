@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/reverse-bits?list=neetcode150
+// https://leetcode.com/problems/reverse-bits/description/
 
 public class ReverseBits {
     public static void main(String[] args) {

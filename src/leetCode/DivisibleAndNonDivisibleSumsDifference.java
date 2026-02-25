@@ -1,5 +1,7 @@
 package leetCode;
 
+// https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/
+
 public class DivisibleAndNonDivisibleSumsDifference {
     public static int differenceOfSums(int n, int m) {
         int total = n * (n + 1) / 2;

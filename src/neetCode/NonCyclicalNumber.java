@@ -1,8 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/non-cyclical-number
-
-import java.util.HashSet;
+// https://leetcode.com/problems/happy-number/description/
 
 public class NonCyclicalNumber {
     public static void main(String[] args) {

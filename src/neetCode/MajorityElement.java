@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/majority-element?list=neetcode250
+// https://leetcode.com/problems/majority-element/description/
 
 import java.util.Arrays;
 

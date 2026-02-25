@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/binary-tree-diameter?list=neetcode150
+// https://leetcode.com/problems/diameter-of-binary-tree/description/
 
 public class DiameterOfBinaryTree {
     public static class TreeNode {

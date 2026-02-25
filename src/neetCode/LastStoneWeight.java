@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/last-stone-weight
+// https://leetcode.com/problems/last-stone-weight/description/
 
 import java.util.Collections;
 import java.util.PriorityQueue;

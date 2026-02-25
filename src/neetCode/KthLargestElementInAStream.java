@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/kth-largest-integer-in-a-stream?list=neetcode150
+// https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
 
 import java.util.PriorityQueue;
 

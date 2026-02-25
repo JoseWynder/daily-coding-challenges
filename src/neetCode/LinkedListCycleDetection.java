@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/linked-list-cycle-detection?list=neetcode150
+// https://leetcode.com/problems/linked-list-cycle/description/
 
 public class LinkedListCycleDetection {
 

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-// https://neetcode.io/problems/two-integer-sum?list=blind75
+// https://leetcode.com/problems/two-sum/description/
 
 public class TwoSum {
 

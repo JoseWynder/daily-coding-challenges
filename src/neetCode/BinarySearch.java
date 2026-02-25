@@ -1,8 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/binary-search?list=neetcode150
-
-import java.util.Arrays;
+// https://leetcode.com/problems/binary-search/description/
 
 public class BinarySearch {
     public static void main(String[] args) {

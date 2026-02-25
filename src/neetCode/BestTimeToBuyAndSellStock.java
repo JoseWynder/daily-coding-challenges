@@ -1,6 +1,6 @@
 package neetCode;
 
-// https://neetcode.io/problems/buy-and-sell-crypto?list=blind75
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 public class BestTimeToBuyAndSellStock {
 
