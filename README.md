@@ -1,69 +1,81 @@
-<h1 align="center">Daily Coding Challenges</h1>
+# Daily Coding Challenges
 
-<p align="center">
-Registro de uma rotina pessoal de resolução diária de desafios de algoritmos para manter a prática constante de codificação.
-</p>
+🧠 Repositório dedicado à prática consistente de algoritmos e estruturas de dados utilizando **Java**.
 
----
+Durante cerca de dois meses mantive uma rotina diária de resolução de desafios como forma de fortalecer o raciocínio algorítmico enquanto avançava em estudos mais complexos de desenvolvimento backend.
 
-## <p align="center">📌 Sobre</p>
-
-<p align="center">
-Este repositório reúne desafios de algoritmos resolvidos diariamente como parte de uma rotina pessoal de prática de programação, geralmente pela manhã, antes do início das demais atividades.
-</p>
-
-<p align="center">
-A iniciativa surgiu da necessidade de continuar exercitando a base lógica e o raciocínio
-algorítmico enquanto o foco principal de estudos migrava para tecnologias e projetos mais avançados.
-A proposta era simples: programar todos os dias, independentemente do contexto ou fase dos estudos.
-</p>
+Ao longo desse período foram resolvidos **70+ problemas**, explorando diferentes padrões e estruturas clássicas utilizadas na resolução de problemas computacionais.
 
 ---
 
-## <p align="center">🧠 Dinâmica</p>
+## 📌 Objetivo
 
-<p align="center">
-Cada desafio era resolvido individualmente e, após chegar em uma solução, eu analisava outras abordagens possíveis, realizava ajustes quando necessário e mantinha commits frequentes como forma de acompanhar a própria evolução ao longo do tempo.
-</p>
+O objetivo deste repositório é manter a prática contínua de resolução de problemas algorítmicos e desenvolver maior familiaridade com padrões recorrentes encontrados em entrevistas técnicas e desafios de programação.
 
-<p align="center">
-O tempo variava entre desafios mais rápidos e sessões mais longas de resolução, que podiam levar horas, sempre com foco em compreender bem o problema antes de seguir para o próximo.
-</p>
+A proposta foi simples: **resolver pelo menos um desafio por dia**, mantendo consistência e registrando a evolução ao longo do tempo através do histórico de commits.
 
 ---
 
-## <p align="center">📚 Conteúdo Praticado</p>
+## 🧩 Conteúdo Praticado
 
-<p align="center">
-Arrays & Hashing • Two Pointers • Sliding Window • Stack • Binary Search • Linked List • Trees •
-Priority Queue • Math & Geometry • Estruturas clássicas de dados e problemas algorítmicos diversos.
-</p>
+Os desafios abordam diversos tópicos fundamentais de algoritmos e estruturas de dados:
 
-<p align="center">
-Total aproximado: 80 desafios resolvidos ao longo de cerca de dois meses de prática consistente.
-</p>
-
----
-
-## <p align="center">💡 Aprendizados</p>
-
-<p align="center">
-Fortalecimento do raciocínio lógico • leitura e interpretação de problemas em inglês •
-debugging mais eficiente • maior clareza mental na resolução de desafios •
-familiaridade com padrões recorrentes de algoritmos e estruturas de dados.
-</p>
+* Arrays & Hashing
+* Two Pointers
+* Sliding Window
+* Stack
+* Binary Search
+* Linked Lists
+* Trees
+* Priority Queue / Heap
+* Dynamic Programming
+* Math & Geometry
+* Bit Manipulation
+* Backtracking
+* Graph fundamentals
 
 ---
 
-## <p align="center">📊 Status</p>
+## 📂 Organização do Repositório
 
-<p align="center">
-Pausado temporariamente devido ao foco em outros projetos,
-com possibilidade de retomada futura como rotina complementar de estudo.
-</p>
+Os problemas estão organizados por **categoria algorítmica**, facilitando a navegação e o estudo de padrões específicos.
+
+Exemplo de estrutura:
+
+```
+src
+ ├─ arrays
+ ├─ binarysearch
+ ├─ bit
+ ├─ backtracking
+ ├─ dp
+ ├─ heap
+ ├─ linkedlist
+ ├─ math
+ ├─ slidingwindow
+ ├─ stack
+ ├─ trees
+ └─ twopointers
+```
+
+Cada arquivo contém a implementação da solução para um desafio específico.
 
 ---
 
-<p align="center">
-  <em>☕ Programar todos os dias foi a forma mais simples de manter a base sempre ativa.</em>
-</p>
+## 📊 Estatísticas da Prática
+
+* 🗓️ Aproximadamente **2 meses de prática**
+* 🧩 **70+ desafios resolvidos**
+* 📈 **75 commits registrados** durante o período ativo
+
+---
+
+## ⏸️ Status
+
+Atualmente o projeto encontra-se **pausado**, pois o foco de estudos foi direcionado para projetos e aplicações mais completas.
+
+Mesmo assim, o repositório permanece como registro da rotina de prática e pode ser retomado a qualquer momento.
+
+---
+
+💡 *Praticar algoritmos diariamente foi uma forma simples e eficiente de manter a base lógica sempre ativa.*
