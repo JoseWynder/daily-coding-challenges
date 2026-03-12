@@ -8,11 +8,11 @@ Ao longo desse período foram resolvidos **70+ problemas**, explorando diferente
 
 ---
 
-## 📌 Objetivo
+## 📌 Estratégia de Prática
 
-O objetivo deste repositório é manter a prática contínua de resolução de problemas algorítmicos e desenvolver maior familiaridade com padrões recorrentes encontrados em entrevistas técnicas e desafios de programação.
+A proposta foi simples: resolver pelo menos um desafio por dia, mantendo consistência e registrando a evolução ao longo do tempo através do histórico de commits.
 
-A proposta foi simples: **resolver pelo menos um desafio por dia**, mantendo consistência e registrando a evolução ao longo do tempo através do histórico de commits.
+Durante esse período, os problemas foram resolvidos utilizando Java, com foco em identificar padrões algorítmicos recorrentes e melhorar a velocidade de raciocínio na resolução de problemas.
 
 ---
 
